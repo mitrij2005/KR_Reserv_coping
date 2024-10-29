@@ -5,9 +5,9 @@ from tqdm import tqdm
 from time import sleep
 
 from pprint import pprint
-vk_token="vk1.a.H-fmGuaHiTHniKfRD0vWlb4K9cf0GVjAvBM0Mb0-wRlFsYDNSu-AZGqEt7bJFCCbBUMorkGxq7Vbds5QH1wUgPylzd9QT7G0ow7xZtUM2O6p4zLwFp0TzK5md28yY38Zx6nySNNhrazFIOH4xg8GAVAVaE78PvJpyEV05VyNY4PcThLLx3hSffhXbXVaRLhz"
-ya_token="y0_AgAAAAAAul_xAADLWwAAAAEVUQm6AAB5NOHg1Y1H8KJpqPAOPaIQuu-yOw"
-vk_id = 504905705
+vk_token="{сюда помещаем VK-токен}"
+ya_token="{сюда помещаем Yandeх-токен}"
+vk_id = {сюда помещем ID-номер пользователя VK (без префикса "id"), чьи фото копируем}
 
 
 class VK_Connector:
